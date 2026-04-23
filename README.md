@@ -16,7 +16,24 @@ Vaultly is a privacy-centric password management solution designed with a local-
 ## Screenshots
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Vault Setup Screen" width="700"/>
+  <strong>Main Dashboard & Items</strong>
+</p>
+<p align="center">
+  <img src="./assets/credit_cards.png" alt="Credit Cards View" width="800"/>
+</p>
+
+<p align="center">
+  <strong>Secure Item Creation</strong>
+</p>
+<p align="center">
+  <img src="./assets/new_password.png" alt="New Password Modal" width="800"/>
+</p>
+
+<p align="center">
+  <strong>Profile & Customization</strong>
+</p>
+<p align="center">
+  <img src="./assets/profile_modal.png" alt="Profile Modal" width="800"/>
 </p>
 
 ---
